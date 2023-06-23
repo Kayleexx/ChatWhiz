@@ -2,7 +2,7 @@
 
 ChatWhiz is a chat application that allows users to communicate with an AI-powered assistant. It provides a simple and intuitive interface for sending and receiving messages in real-time.
 
-![chatpal screenshot](https://i.imgur.com/9vw74rP.jpg)
+![ChatWhiz screenshot](https://i.imgur.com/R5pAw4i.jpg)
 
 
 ## Features
