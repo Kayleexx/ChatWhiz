@@ -65,7 +65,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 If you have any questions, feel free to reach out to me.
 
-![chatpal screenshot](https://imgur.com/a/CltOHDA)
+![chatpal screenshot](https://i.imgur.com/9vw74rP.jpg)
 
 
 
