@@ -65,3 +65,6 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 If you have any questions, feel free to reach out to me.
 
+![An illustration depicting a friendly conversation between two chat bubbles. The chat bubbles are filled with text, symbolizing an interactive and engaging conversation with ChatPal, a powerful chatbot assistant. ](https://drive.google.com/file/d/1Ya7-Xq-AtfMhfSJJyMlQXDKSWIz6R6uP/view?usp=sharing)
+
+
