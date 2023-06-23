@@ -25,10 +25,12 @@ You can try out the ChatPal application by visiting the [live demo](https://your
 To run ChatPal locally, follow these steps:
 
 1. Clone the repository:
-git clone https://github.com/your-username/chatpal.git
+   
+`git clone https://github.com/your-username/chatpal.git`
 
 2. Navigate to the project directory:
-cd chatpal
+   
+`cd chatpal`
 
 3. Open the `index.html` file in your web browser.
 
@@ -41,12 +43,15 @@ Contributions are welcome! If you'd like to contribute to ChatPal, please follow
 1. Fork the repository.
    
 2. Create a new branch:
+   
 `git checkout -b feature/your-feature-name`
 
 3. Make your changes and commit them:
+   
 `git commit -m "Add your commit message"`
 
 4. Push your changes to the branch on your forked repository:
+   
 `git push origin feature/your-feature-name`
 
 
