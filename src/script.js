@@ -42,7 +42,7 @@ async function processMessage(message) {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
-        'Authorization': 'Bearer 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'
+        'Authorization': 'Bearer YOUR_OPENAI_API_KEY'
       },
       body: JSON.stringify({
         model: 'gpt-3.5-turbo',
