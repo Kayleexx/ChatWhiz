@@ -17,7 +17,6 @@ ChatPal is a chat application that allows users to communicate with an AI-powere
 
 - HTML, CSS, JavaScript: Front-end development
 - OpenAI API: Powering the AI assistant
-- Third-Party Web: Enabling decentralized communication
 
 ## Getting Started
 
