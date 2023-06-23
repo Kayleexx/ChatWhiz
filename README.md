@@ -65,6 +65,6 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 If you have any questions, feel free to reach out to me.
 
-![Conversation with ChatPal](https://drive.google.com/file/d/1Ya7-Xq-AtfMhfSJJyMlQXDKSWIz6R6uP/view?usp=sharing)
+<img src="https://drive.google.com/file/d/1Ya7-Xq-AtfMhfSJJyMlQXDKSWIz6R6uP/view?usp=sharing" width="35px"/>
 
 
