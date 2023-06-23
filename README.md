@@ -41,13 +41,13 @@ Contributions are welcome! If you'd like to contribute to ChatPal, please follow
 1. Fork the repository.
    
 2. Create a new branch:
-git checkout -b feature/your-feature-name
+`git checkout -b feature/your-feature-name`
 
 3. Make your changes and commit them:
-git commit -m "Add your commit message"
+`git commit -m "Add your commit message"`
 
 4. Push your changes to the branch on your forked repository:
-git push origin feature/your-feature-name
+`git push origin feature/your-feature-name`
 
 
 5. Open a pull request on the original repository.
