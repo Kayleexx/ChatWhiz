@@ -2,6 +2,9 @@
 
 ChatPal is a chat application that allows users to communicate with an AI-powered assistant. It provides a simple and intuitive interface for sending and receiving messages in real-time.
 
+![chatpal screenshot](https://i.imgur.com/9vw74rP.jpg)
+
+
 ## Features
 
 - Real-time messaging: Chat with an AI assistant and receive instant responses.
@@ -64,8 +67,6 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 ## Contact
 
 If you have any questions, feel free to reach out to me.
-
-![chatpal screenshot](https://i.imgur.com/9vw74rP.jpg)
 
 
 
