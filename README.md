@@ -13,10 +13,6 @@ ChatPal is a chat application that allows users to communicate with an AI-powere
 - Chat history: View and scroll through previous messages in the chat history.
 - Responsive design: Works well on different devices and screen sizes.
 
-## Demo
-
-You can try out the ChatPal application by visiting the [live demo](https://your-chatpal-demo-url.com).
-
 ## Technologies Used
 
 - HTML, CSS, JavaScript: Front-end development
