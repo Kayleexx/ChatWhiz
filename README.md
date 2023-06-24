@@ -28,7 +28,7 @@ To run ChatPal locally, follow these steps:
 
 2. Navigate to the project directory:
    
-`cd chatpal`
+`cd chatwhiz`
 
 3. Open the `index.html` file in your web browser.
 
@@ -36,7 +36,7 @@ To run ChatPal locally, follow these steps:
 
 ## Contributing
 
-Contributions are welcome! If you'd like to contribute to ChatPal, please follow these steps:
+Contributions are welcome! If you'd like to contribute to ChatWhiz, please follow these steps:
 
 1. Fork the repository.
    
