@@ -20,11 +20,11 @@ ChatWhiz is a chat application that allows users to communicate with an AI-power
 
 ## Getting Started
 
-To run ChatPal locally, follow these steps:
+To run ChatWhiz locally, follow these steps:
 
 1. Clone the repository:
    
-`git clone https://github.com/your-username/chatpal.git`
+`git clone https://github.com/your-username/chatwhiz.git`
 
 2. Navigate to the project directory:
    
