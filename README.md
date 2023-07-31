@@ -56,11 +56,12 @@ Contributions are welcome! If you'd like to contribute to ChatWhiz, please follo
 5. Open a pull request on the original repository.
 
 ## License
-
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
-## Contact
+## Author
+Mitali Sinha
 
+## Contact
 If you have any questions, feel free to reach out to me.
 
 
